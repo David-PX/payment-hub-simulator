@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaymentHubAPIMock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81695edd3a0ac26ca8eca797c58082d928aff8aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaymentHubAPIMock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaymentHubAPIMock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
