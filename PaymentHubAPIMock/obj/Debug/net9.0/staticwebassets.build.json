@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mCWl9Ptdh8LUeg2e1MyGM5j9Im7SBdHv5mu2OKUDOOQ=",
+  "Source": "PaymentHubAPIMock",
+  "BasePath": "_content/PaymentHubAPIMock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
